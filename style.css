@@ -1,0 +1,71 @@
+body {
+  background-color: #f4ede4;
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  text-align: center;
+  margin: 20;
+  padding: 20;
+}
+
+h2 {
+  font-size: 70px;
+}
+
+div {
+  height: 200px;
+  margin: 20px;
+  border: 5px solid;
+}
+
+.blanco {
+  background-color: #ebeaeb;
+}
+
+.principio {
+  background-image: url(Untitled-1.png);
+  background-repeat: repeat-x;
+}
+
+h1 {
+  color: rgb(251, 251, 251);
+  font-size: 70px;
+}
+
+h3 {
+  color: rgb(251, 251, 251);
+  font-size: 40px;
+}
+
+video {
+  margin: 0;
+  size-adjust: 150vw;
+  background-color: #f4ede4;
+}
+
+.grande {
+  width: 100%;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.contenedor {
+  background-color: #f4ede4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.segundafase {
+  background-color: #f4ede4;
+}
+
+.cartel3 {
+  height: 35vh;
+  max-width: 150vw;
+  font-size: larger;
+  margin-top: 0;
+  background-color: #f4ede4;
+}

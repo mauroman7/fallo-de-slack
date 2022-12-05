@@ -1,0 +1,347 @@
+body {
+    background-color: #f4ede4;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+
+*{
+text-align: center;
+margin: 20;
+padding: 20;
+}
+
+h2{font-size: 70px;}
+
+
+.blanco{ background-color: #ebeaeb;}
+          
+
+
+.principio{
+    background-image: url(Untitled-1.png);
+    background-repeat: repeat-x;
+    background-image; margin-bottom: 5px ;
+}
+
+h1 {
+    color: rgb(251, 251, 251);
+    font-size: 70px;; }
+h3 {
+    color: rgb(251, 251, 251);
+    font-size: 40px;}
+
+video{
+    margin: 0;
+    size-adjust: 150vw;
+    background-color: #f4ede4;
+}    
+
+.grande{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 20px;}
+
+    .contenedor{
+        background-color: #f4ede4;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+       
+ }
+ .cartel3 { 
+    height: 35vh;
+    max-width: 150vw;
+    font-size: larger;
+    margin-top: 0;
+    background-color: #f4ede4;
+}
+
+.o-section.v--borderless {
+    border: none;
+  }
+  .u-relative-position {
+    position: relative;
+    z-index: 1;
+  }
+  .u-padding-bottom--large {
+    padding-bottom: 1.5rem !important;
+  }
+  .o-section {
+    overflow: hidden;
+    padding: 3rem 0;
+      padding-bottom: 3rem;
+    border-top: 1px solid #ebeaeb;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, picture, section, summary {
+    display: block;
+  }
+  *, ::after, ::before {
+    box-sizing: inherit;
+  }
+  body {
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+  }
+  :root {
+    --sidebar-color: #400d40;
+    --sidebar-highlight-color: #1264a3;
+    --attachment-color: #000;
+    --more-count: '+1';
+    --article-theme-primary: #4a154b;
+    --article-theme-secondary: #fff;
+  }
+  html {
+    font-size: 16px;
+    color: #000;
+  }
+  o-content-container {
+    padding: 0 4vw;
+  }
+  .o-content-container {
+    margin: 0 auto;
+    padding: 0 8vw;
+  }
+  *, ::after, ::before {
+    box-sizing: inherit;
+  }
+  body {
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+  }
+  :root {
+    --sidebar-color: #400d40;
+    --sidebar-highlight-color: #1264a3;
+    --attachment-color: #000;
+    --more-count: '+1';
+    --article-theme-primary: #4a154b;
+    --article-theme-secondary: #fff;
+  }
+  html {
+    font-size: 16px;
+    color: #000;}
+
+    .u-i18n-max-width--48rem {
+        max-width: 48rem;
+        margin-left: auto;
+        margin-right: auto;
+      }
+        @media screen and (min-width: 0px) and (max-width: 1023px)
+      .display-as-h1 {
+        font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        font-weight: 700;
+        line-height: 1.1875;
+        letter-spacing: -.3px;
+        margin-bottom: 1rem;
+        font-size: 2rem;
+      }
+      .display-as-h1 {
+        font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        font-weight: 700;
+        line-height: 1.12;
+        letter-spacing: -.8px;
+        font-size: 2rem;
+        margin-bottom: 1rem;
+      }
+      .u-text--center {
+        text-align: center !important;
+      }
+      h3, h4:lang(de) {
+        font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        font-weight: 700;
+        line-height: 1.25;
+        letter-spacing: normal;
+        font-size: 1.25rem;
+        margin-bottom: 1rem;
+      }
+      h1, h2, h3, h4, h5 {
+        color: #000;
+      }
+      *, ::after, ::before {
+        box-sizing: inherit;
+      }
+      body {
+        -moz-osx-font-smoothing: grayscale;
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+      }
+      :root {
+        --sidebar-color: #400d40;
+        --sidebar-highlight-color: #1264a3;
+        --attachment-color: #000;
+        --more-count: '+1';
+        --article-theme-primary: #4a154b;
+        --article-theme-secondary: #fff;
+      }
+      html {
+        font-size: 16px;
+        color: #000;
+      }
+      html {
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        -webkit-text-size-adjust: 100%;
+      }
+     
+      .c-stat-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 2.5rem;
+        padding-bottom: 2rem;
+      }
+      .c-stat-container {
+        display: flex;
+        justify-content: space-around;
+      }
+      .u-padding-top--large {
+        padding-top: 1.5rem !important;
+      }
+      ul {
+        padding: 0;
+          padding-top: 0px;
+          padding-bottom: 0px;
+      }
+      address, ol, p, ul {
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        font-weight: 400;
+        line-height: 1.4444;
+        letter-spacing: normal;
+        font-size: 1.125rem;
+        margin-bottom: 1rem;
+      }
+      *, ::after, ::before {
+        box-sizing: inherit;
+      }
+      body {
+        -moz-osx-font-smoothing: grayscale;
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+      }
+      :root {
+        --sidebar-color: #400d40;
+        --sidebar-highlight-color: #1264a3;
+        --attachment-color: #000;
+        --more-count: '+1';
+        --article-theme-primary: #4a154b;
+        --article-theme-secondary: #fff;
+      }
+      html {
+        font-size: 16px;
+        color: #000;
+      }
+
+      .c-stat {
+        max-width: 190px;
+      }
+        @media screen and (min-width: 0px) and (max-width: 767px)
+
+      .c-stat {
+        text-align: center;
+      }
+      .c-stat {
+        list-style-type: none;
+        margin-bottom: 0 !important;
+      }
+      *, ::after, ::before {
+        box-sizing: inherit;
+      }
+      address, ol, p, ul {
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        font-weight: 400;
+        line-height: 1.4444;
+        letter-spacing: normal;
+        font-size: 1.125rem;
+      }
+      body {
+        -moz-osx-font-smoothing: grayscale;
+        font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+      }
+      :root {
+        --sidebar-color: #400d40;
+        --sidebar-highlight-color: #1264a3;
+        --attachment-color: #000;
+        --more-count: '+1';
+        --article-theme-primary: #4a154b;
+        --article-theme-secondary: #fff;
+      }
+      html {
+        font-size: 16px;
+        color: #000;
+        .c-stat p {
+            margin: 0;
+          }
+          p {
+            margin: 0;
+            margin-bottom: 1rem;
+          }
+          address, ol, p, ul {
+            font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+            font-weight: 400;
+            line-height: 1.4444;
+            letter-spacing: normal;
+            font-size: 1.125rem;
+            margin-bottom: 1rem;
+          }
+          *, ::after, ::before {
+            box-sizing: inherit;
+          }
+            @media screen and (min-width: 0px) and (max-width: 767px)
+          
+            .c-stat {
+            text-align: center;
+          }
+          .c-stat {
+            list-style-type: none;
+          }
+          body {
+            -moz-osx-font-smoothing: grayscale;
+            font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+          }
+          :root {
+            --sidebar-color: #400d40;
+            --sidebar-highlight-color: #1264a3;
+            --attachment-color: #000;
+            --more-count: '+1';
+            --article-theme-primary: #4a154b;
+            --article-theme-secondary: #fff;
+          }
+          html {
+            font-size: 16px;
+            color: #000;
+
+            section {
+                -webkit-box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
+                box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
+                background-color: rgba(255, 255, 255, 0.25);
+              }
+              section {
+                outline: 1px solid #66b8da !important;
+              }
+              article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, picture, section, summary {
+                display: block;
+              }
+              *, ::after, ::before {
+                box-sizing: inherit;
+              }
+              body {
+                -moz-osx-font-smoothing: grayscale;
+                font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+              }
+              :root {
+                --sidebar-color: #400d40;
+                --sidebar-highlight-color: #1264a3;
+                --attachment-color: #000;
+                --more-count: '+1';
+                --article-theme-primary: #4a154b;
+                --article-theme-secondary: #fff;
+              }
+              html {
+                font-size: 16px;
+                color: #000;
+              }
+              html {
+                font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+                -webkit-text-size-adjust: 100%;
+              }
+             
+              
